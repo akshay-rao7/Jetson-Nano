@@ -9,8 +9,12 @@
 
 - 5V 5A Power Supply
 - 12V Power Supply
+- Switch
 - Wires
 - PVC Case 6x8
 - 12V Fan
 - Acrylic Sheet
 - Spacer
+- Cable Ties
+- Cardboard
+
